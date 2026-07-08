@@ -64,7 +64,7 @@ ASPEK_KEYWORD = {
 ASPEK_MAPPING = ["Pengiriman", "Aplikasi", "Harga", "Layanan"]
 LABEL_MAP = {0: "Negatif", 1: "Positif"}
 
-MODEL_PATH = "fadh54/absa-indobert"
+MODEL_PATH = "fadhyas/absa-indobert"
 KAMUS_PATH = os.path.join("dataset", "kamuskatabaku.csv")
 # ======================================================
 # FUNGSI PREPROCESSING
